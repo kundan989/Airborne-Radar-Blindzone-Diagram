@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DynamicVariables">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:padding="15dp"/>
+
+
+    <RelativeLayout
+        android:id="@+id/layout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView1"
+        android:layout_margin="20dp">
+
+        <View android:id="@+id/dummy1"
+            android:layout_height="0dp"
+            android:layout_width="0dp"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_alignRight="@id/dummy1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Radar Type"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#283593" />
+
+        <Spinner
+            android:id="@+id/spinner"
+            android:layout_alignLeft="@id/dummy1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:contextClickable="true"
+            android:layout_alignParentRight="true" />
+
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layout1"
+        android:layout_margin="20dp">
+
+        <View android:id="@+id/dummy"
+            android:layout_height="0dp"
+            android:layout_width="0dp"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_alignRight="@id/dummy"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Antenna Elevation Angle (Degree)"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_alignLeft="@id/dummy"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:ems="10"
+            android:inputType="numberDecimal"
+            android:layout_alignParentRight="true"/>
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:id="@+id/layout3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/layout2"
+        android:layout_margin="20dp">
+
+        <View android:id="@+id/dummy2"
+            android:layout_height="0dp"
+            android:layout_width="0dp"
+            android:layout_centerInParent="true"/>
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_alignRight="@id/dummy2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="Antenna Azimuth Angle (Degree)"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_alignLeft="@id/dummy2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentRight="true"
+            android:ems="10"
+            android:inputType="numberDecimal"/>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/layout3"
+        android:layout_margin="20dp"
+        android:hapticFeedbackEnabled="true"
+        android:text="Generate BlindZone" />
+</RelativeLayout>

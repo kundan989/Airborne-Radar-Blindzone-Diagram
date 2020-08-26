@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Airborne-Radar-Blindzone-Diagram.iml" filepath="$PROJECT_DIR$/.idea/Airborne-Radar-Blindzone-Diagram.iml" group="Airborne-Radar-Blindzone-Diagram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Airborne-Radar-Blindzone-Diagram/app" />
+    </modules>
+  </component>
+</project>

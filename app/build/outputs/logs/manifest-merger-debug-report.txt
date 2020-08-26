@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9ab0ab0bc0bea823017432dd8135c786\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\6779450bc09a2f96f28b49ff610b8446\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ad2e6ebb4df28bfce91eb63561ca79d1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f98bdfd68618a58a233ee4e0b6537450\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8b4ce4ded980f5584825dea3a198b8f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9e3c3dc17ecef025d4f6a0d20f24c933\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4696c1e044fd7528f9833a7d4a73ecab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\736b4f786af0ef497942b5606d2ea5fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\dc64c994d2edb5c7eedf43a9654f4cb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9b3c000b36db1a27a27f8d479cd11cc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8f97dce1b7cf571ff817b91afeb04b19\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\15db8abaedbd8ff7bfe6b728fefc9414\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4beec9923582c63d5e336e5821a65d56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\236ee8394b8b3aa4aff381a07b0cfe27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8086d24a80d528613404dce65f94cdbb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\bb8aeeb54348dcca42f3c49ba949dfa5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\fac65ce8b44e1c4e3d36d2bb562acffd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\53b5b5cc172d9c4b45ddefc533e948cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8201356763022bc3151392d625c05094\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\2154c96438425446ed28976ebae7d88d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4fda6c223308dfe164439cc12c617aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\06fae40d0dd017aabbd349ae586a87ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ae35ab4f1119d3dcc6e0cff8b9fccb9a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4de20483c36b3131a8e681590ee9c723\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\494055809b6f28ea7ceb2771bf8b67e4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\dbb719cd5642118623194f2889c571ae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9855fe4058b305a3845971be6d2c61e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\fd565741cb14f95e88ec95c362e30535\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4a307e27de1573bb35ac63052b9071d2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\6d1db922809e8f306f7998f9db6cccb8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\800c9bce020efdc12726ee4cfaf619c3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\52b288557be2c07601cd9689ece1e8cd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\5be5cda7fe2624adde66b33517dbff68\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f77ab71bb4690df2cd540defddf28ab1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:5:5-97
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:6:5-96
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:6:22-77
+application
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:8:5-31:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9ab0ab0bc0bea823017432dd8135c786\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9ab0ab0bc0bea823017432dd8135c786\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ad2e6ebb4df28bfce91eb63561ca79d1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ad2e6ebb4df28bfce91eb63561ca79d1\AndroidManifest.xml:9:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f98bdfd68618a58a233ee4e0b6537450\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f98bdfd68618a58a233ee4e0b6537450\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ae35ab4f1119d3dcc6e0cff8b9fccb9a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ae35ab4f1119d3dcc6e0cff8b9fccb9a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4de20483c36b3131a8e681590ee9c723\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4de20483c36b3131a8e681590ee9c723\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ae35ab4f1119d3dcc6e0cff8b9fccb9a\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:12:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:9:9-43
+	android:roundIcon
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:13:9-60
+	android:icon
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:11:9-55
+	android:allowBackup
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.UpdateDetails
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:16:9-103
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:16:19-91
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.DisplyIndividualRadar
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:17:9-102
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:17:19-99
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.popup
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:18:9-85
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:18:19-83
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.Firstscreen
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:19:9-92
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:19:19-89
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.SplashScreen
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:20:19-90
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.DisplayRadar
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:27:9-93
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:27:19-90
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.Graph
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:28:9-86
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:28:19-83
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.DynamicVariables
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:29:9-97
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:29:19-94
+activity#com.Kundan.Airborne_Radar_Blindzone_Diagram.MainActivity
+ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:30:9-93
+	android:name
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml:30:19-90
+uses-sdk
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9ab0ab0bc0bea823017432dd8135c786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9ab0ab0bc0bea823017432dd8135c786\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\6779450bc09a2f96f28b49ff610b8446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\6779450bc09a2f96f28b49ff610b8446\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ad2e6ebb4df28bfce91eb63561ca79d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ad2e6ebb4df28bfce91eb63561ca79d1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f98bdfd68618a58a233ee4e0b6537450\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f98bdfd68618a58a233ee4e0b6537450\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8b4ce4ded980f5584825dea3a198b8f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8b4ce4ded980f5584825dea3a198b8f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9e3c3dc17ecef025d4f6a0d20f24c933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9e3c3dc17ecef025d4f6a0d20f24c933\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4696c1e044fd7528f9833a7d4a73ecab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4696c1e044fd7528f9833a7d4a73ecab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\736b4f786af0ef497942b5606d2ea5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\736b4f786af0ef497942b5606d2ea5fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\dc64c994d2edb5c7eedf43a9654f4cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\dc64c994d2edb5c7eedf43a9654f4cb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9b3c000b36db1a27a27f8d479cd11cc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9b3c000b36db1a27a27f8d479cd11cc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8f97dce1b7cf571ff817b91afeb04b19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8f97dce1b7cf571ff817b91afeb04b19\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\15db8abaedbd8ff7bfe6b728fefc9414\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\15db8abaedbd8ff7bfe6b728fefc9414\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4beec9923582c63d5e336e5821a65d56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4beec9923582c63d5e336e5821a65d56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\236ee8394b8b3aa4aff381a07b0cfe27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\236ee8394b8b3aa4aff381a07b0cfe27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8086d24a80d528613404dce65f94cdbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8086d24a80d528613404dce65f94cdbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\bb8aeeb54348dcca42f3c49ba949dfa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\bb8aeeb54348dcca42f3c49ba949dfa5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\fac65ce8b44e1c4e3d36d2bb562acffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\fac65ce8b44e1c4e3d36d2bb562acffd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\53b5b5cc172d9c4b45ddefc533e948cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\53b5b5cc172d9c4b45ddefc533e948cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8201356763022bc3151392d625c05094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\8201356763022bc3151392d625c05094\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\2154c96438425446ed28976ebae7d88d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\2154c96438425446ed28976ebae7d88d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4fda6c223308dfe164439cc12c617aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4fda6c223308dfe164439cc12c617aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\06fae40d0dd017aabbd349ae586a87ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\06fae40d0dd017aabbd349ae586a87ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ae35ab4f1119d3dcc6e0cff8b9fccb9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\ae35ab4f1119d3dcc6e0cff8b9fccb9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4de20483c36b3131a8e681590ee9c723\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4de20483c36b3131a8e681590ee9c723\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\494055809b6f28ea7ceb2771bf8b67e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\494055809b6f28ea7ceb2771bf8b67e4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\dbb719cd5642118623194f2889c571ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\dbb719cd5642118623194f2889c571ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9855fe4058b305a3845971be6d2c61e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\9855fe4058b305a3845971be6d2c61e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\fd565741cb14f95e88ec95c362e30535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\fd565741cb14f95e88ec95c362e30535\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4a307e27de1573bb35ac63052b9071d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\4a307e27de1573bb35ac63052b9071d2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\6d1db922809e8f306f7998f9db6cccb8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\6d1db922809e8f306f7998f9db6cccb8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\800c9bce020efdc12726ee4cfaf619c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\800c9bce020efdc12726ee4cfaf619c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\52b288557be2c07601cd9689ece1e8cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\52b288557be2c07601cd9689ece1e8cd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\5be5cda7fe2624adde66b33517dbff68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\5be5cda7fe2624adde66b33517dbff68\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f77ab71bb4690df2cd540defddf28ab1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Kundan\.gradle\caches\transforms-2\files-2.1\f77ab71bb4690df2cd540defddf28ab1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Kundan\Desktop\Projrects\Airborne-Radar-Blindzone-Diagram\app\src\main\AndroidManifest.xml
